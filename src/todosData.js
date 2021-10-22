@@ -11,17 +11,17 @@ const todosData = [
     },
     {
         id: 3,
-        text: "Practice Javascript",
+        text: "Coding challenges",
         completed: false
     },
     {
         id: 4,
-        text: "Apply for Jobs",
+        text: "Take the garbage out",
         completed: true
     },
     {
         id: 5,
-        text: "Practice Codewars",
+        text: "Call parents",
         completed: false
     }
 ]
